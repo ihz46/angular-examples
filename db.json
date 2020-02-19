@@ -187,6 +187,38 @@
         "pimientos",
         "tomate"
       ]
+    },
+    {
+      "nombre": "Pollo Kung Pao",
+      "descripcion": "Siempre que voy a un restaurante oriental y veo en la carta el Pollo Kung Pao me lo pido, ya que me encanta. El caso es que hace años aprendí una receta deliciosa para hacerlo y la pongo en práctica de una manera bastante habitual, y la verdad es que queda realmente rico, incluso mucho más que el de los restaurantes, por lo que os animo a que la probéis porque quedareis totalmente encantados. Para preparar la receta, con una media hora de antelación, preparamos el pollo para que macere, para lo que cortamos las pechugas en trozos no muy pequeños y los colocamos en un cuenco. Agregamos en dicho cuenco la salsa de soja, el vinagre de arroz y la maicena. Lo mezclamos todo bien, y a continuación tapamos el cuenco con film y dejamos reposar en el frigorífico.Mientras tenemos el pollo macerando, picamos las cebollas en juliana fina y el medio pimiento en trozos no muy grandes. En una sartén, o en un wok que sería lo más adecuado, ponemos un par de cucharadas de aceite de oliva y en cuanto esté bien caliente salteamos el pollo. No se debe de cocinar solo sellarlo. Retiramos y reservamos.En esa misma sartén, añadimos una cucharada más de aceite y espolvoreamos la pimienta de Sichuan machada.Agregamos el pimiento, la cebolleta y el jengibre y dejamos pochar a fuego bajo.Tras unos 5 minutos, incorporamos el pollo y vertemos la salsa de soja y el caldo de pollo. Subimos el fuego, rehogamos y dejamos cocinar hasta que la salsa se haya consumido.Ya por último, agregamos los anacardos y rehogamos con el resto de los ingredientes durante unos minutos.Retiramos el Pollo Kung Pao del fuego y servimos de inmediato. Es realmente rico por lo que no perdáis la oportunidad de hacerlo.",
+      "foto": "http://www.demoslavueltaaldia.com/sites/default/files/styles/recetas_listado/public/pollo-kung-pao.jpg",
+      "likes": "50",
+      "isGlutenFree": true,
+      "cocinero": "Wilsanwong",
+      "ingredientes": [
+        "pollo",
+        "pimienta china",
+        "pimiento",
+        "cebolla"
+      ],
+      "id": 7
+    },
+    {
+      "id": -1,
+      "nombre": "crispy chicken",
+      "imagen": "https://yhoyquecomemos.com/wp-content/uploads/2016/07/hamburguesa-crispy-chicken-tipo-burguer-king-1-595x331.jpg",
+      "likes": 0,
+      "cocinero": "iñigo hernandez",
+      "descripcion": "\"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas ass",
+      "isGlutenFree": false,
+      "ingredientes": [
+        "bacon",
+        "pollo picado",
+        "lechuga",
+        "harina",
+        "huevo",
+        "corn flakes"
+      ]
     }
   ],
   "profile": {
